@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todos-65c9b": {
+      "hosting": {
+        "Todo": [
+          "todos-65c9b"
+        ]
+      }
+    }
+  }
+}
